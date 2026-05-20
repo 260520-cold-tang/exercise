@@ -1,0 +1,13 @@
+---
+name: Custom issue template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+- [ ] 항목 1
+- [ ] 항목 2
+- [ ] 항목 3
+- [ ] 항목 4
